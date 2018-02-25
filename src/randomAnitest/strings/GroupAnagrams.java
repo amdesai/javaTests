@@ -17,6 +17,8 @@ Return:
 
     public static void main(String[] args) {
 
+        Queue<Integer> q = new ArrayDeque<>();
+
         String[] data = {"eaten", "tea", "eanet", "ate", "stabs", "nat", "basts"};
         System.out.println(new GroupAnagrams().groupAnagrams(data).toString());
 
