@@ -50,6 +50,8 @@ public class ReverseLinkedListKChunks {
         n5.next = n8;
         Node n12 = new Node(12);
         n8.next = n12;
+        Node n7 = new Node(7);
+        n12.next = n7;
 
         Node head = n3;
         System.out.println(head);
