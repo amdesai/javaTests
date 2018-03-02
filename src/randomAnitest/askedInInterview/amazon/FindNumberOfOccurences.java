@@ -29,15 +29,19 @@ public class FindNumberOfOccurences {
 
     public static void main(String ... args) throws Exception {
 
-        FindNumberOfOccurences finder = new FindNumberOfOccurences();
-//        System.out.println(finder.numberOfTimesFound("a test string out to", "stores")); // happy path
-//        System.out.println(finder.numberOfTimesFound("a test string out to", "")); // empty check
-//        System.out.println(finder.numberOfTimesFound("", "stores")); // empty check
-//        System.out.println(finder.numberOfTimesFound("", "")); // both empty
-//        System.out.println(finder.numberOfTimesFound(null, "stores")); // one string is null
-//        System.out.println(finder.numberOfTimesFound("a test string out to", null)); // one of string null
-//        System.out.println(finder.numberOfTimesFound(null, null)); // both null
-        System.out.println(finder.numberOfTimesFound("eee ssssss ttttt oooo rrrrr eee ssssssss", "stores")); // both null
+
+        System.out.println(Math.pow(9, 2));
+
+//
+//        FindNumberOfOccurences finder = new FindNumberOfOccurences();
+////        System.out.println(finder.numberOfTimesFound("a test string out to", "stores")); // happy path
+////        System.out.println(finder.numberOfTimesFound("a test string out to", "")); // empty check
+////        System.out.println(finder.numberOfTimesFound("", "stores")); // empty check
+////        System.out.println(finder.numberOfTimesFound("", "")); // both empty
+////        System.out.println(finder.numberOfTimesFound(null, "stores")); // one string is null
+////        System.out.println(finder.numberOfTimesFound("a test string out to", null)); // one of string null
+////        System.out.println(finder.numberOfTimesFound(null, null)); // both null
+//        System.out.println(finder.numberOfTimesFound("eee ssssss ttttt oooo rrrrr eee ssssssss", "stores")); // both null
 
     }
 
