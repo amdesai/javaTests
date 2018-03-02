@@ -59,6 +59,7 @@ public class DeleteDistance {
     public static void main(String[] args) {
 
         System.out.println(deletionDistance("hot", "not"));
+        System.out.println(deletionDistance("hot", "not"));
 
     }
 
