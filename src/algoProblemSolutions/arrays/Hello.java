@@ -1,4 +1,4 @@
-package algoProblemSolutions.arrays;
+package algoProblemSolutions.hackerRankPractice.arrays;
 
 public class Hello {
 
@@ -6,4 +6,3 @@ public class Hello {
         System.out.println("helllllo");
     }
 }
-
